@@ -16,5 +16,15 @@ namespace WindowsFormsReise
         {
             InitializeComponent();
         }
+
+        private void buttonErstellen_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonLöschen_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
